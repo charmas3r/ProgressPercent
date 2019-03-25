@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeGoals</string>
+    <string name="title">Percent Progress</string>
+    <string name="hint2">Enter Current Amount: </string>
+    <string name="hint">Enter Your Goal: </string>
+    <string name="dayWidget">Get Progress</string>
+
+    <string name="fragmentDays">frag_days</string>
+</resources>
